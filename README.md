@@ -3,7 +3,7 @@ Good visualization tools to heavy-ion collisions
 
 ***Learning Plan***
 
-- **Start with basic data visualization in Python
+- Start with basic data visualization in Python
     - matplotlib, seaborn, plotly. 
     - Practice creating simple visualizations of heavy-ion collision data.
     - Resources:
